@@ -1,5 +1,7 @@
 # Analytical-Modeling-of-Enterprise-Logistics-Data
 
+### Case Study: Yusen Logistics
+
 This project provides a **data-driven analysis of hotel revenue** using a dataset of 100,000+ records (2018–2020). By transforming raw data into interactive Power BI dashboards, the project uncovers critical revenue drivers, guest behavior patterns, and operational insights to support strategic decision-making.
 
 ## Key Features
