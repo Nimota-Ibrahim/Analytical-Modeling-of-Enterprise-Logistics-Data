@@ -22,11 +22,11 @@ This project provides a **data-driven analysis of hotel revenue** using a datase
 
 ## Accessing the Project Files
 - The **Power BI (.pbix) file** can be downloaded and accessed locally via the following link:
-- *[https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data/blob/main/yusen_bi.pbix]*
+- *https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data/blob/main/yusen_bi.pbix*
   
 - The **PDF version** of the report is viewable directly on GitHub via:
-- *[https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data/blob/main/yusen_bi.pdf]*
-
+- *https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data/blob/main/yusen_bi.pdf*
 
 **Full Project Repository:**  
-github.com/Nimota-Ibrahim/hotel_revenue_analytics
+*github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data*
+
