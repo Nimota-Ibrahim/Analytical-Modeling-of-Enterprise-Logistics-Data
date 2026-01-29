@@ -28,5 +28,5 @@ This project provides a **data-driven analysis of hotel revenue** using a datase
 - *https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data/blob/main/yusen_bi.pdf*
 
 **Full Project Repository:**  
-*github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data*
+*https://github.com/Nimota-Ibrahim/Analytical-Modeling-of-Enterprise-Logistics-Data*
 
